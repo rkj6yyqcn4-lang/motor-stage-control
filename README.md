@@ -24,4 +24,4 @@
 dotnet build xy-console/XYStageControl.csproj -c Release
 ```
 
-光谱测距基础工程见 [DistanceMeassurementApp2 上游仓库](https://github.com/likepillow/DistanceMeassurementApp2)。原版与完整联动版 ZIP、Z 轴便携包及厂家依赖保存在本地恢复包中。
+
