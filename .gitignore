@@ -1,0 +1,12 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.dll
+*.lib
+*.exe
+*.pdb
+*.zip
+*.log
+self-test-report.txt
